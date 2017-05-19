@@ -1,0 +1,44 @@
+.footer-vision{
+	background-color:#0d405d;
+}
+
+footer h1{
+	color:#ffffff;
+}
+
+footer p{
+	padding-top:5px;
+}
+
+footer p, p a{
+	color:#ffffff;
+}
+
+.footer-middle{
+	background-color:#1e1e1e;
+}
+
+.footer-menu li a{
+	color:#ffffff;
+	
+}
+
+.footer-menu{
+	list-style: none;
+	padding-left:0px;
+}
+
+.footer-menu li{
+}
+
+.footer-information h2{
+	color: #606060;
+}
+
+.footer-bottom{
+	background-color: #3a3a3a
+}
+
+.footer-bottom h5, .footer-bottom p{
+	color: #ffffff;
+}
